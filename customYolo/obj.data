@@ -1,0 +1,6 @@
+classes=1
+train=/content/Tiny/customYolo/train.txt
+valid=/content/Tiny/customYolo/test.txt
+names=/content/Tiny/customYolo/obj.names
+backup=/content/Tiny/customYolo/backup/
+eval=coco
